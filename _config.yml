@@ -20,6 +20,7 @@ navbar-links:
     - GEF 250: "GEF250"
     - EEE/GEF 457: "EEE-GEF455-457"
   Resources:
+    - Liste des cours:  "https://www.rmc-cmr.ca/fr/bureau-secretaire-general/cours-premier-cycle-genie-electrique-genie-informatique"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
