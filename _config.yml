@@ -16,9 +16,9 @@ author: Mathieu Drolet
 navbar-links:
   About Me: "Contact"
   Courses:
-    - GEF 243: "flyingmath776.github.io/GEF243"
-    - GEF 250: "flyingmath776.github.io/GEF250"
-    - EEE/GEF 457: "flyingmath776.github.io/EEE-GEF455-457"
+    - GEF 243: "GEF243"
+    - GEF 250: "GEF250"
+    - EEE/GEF 457: "EEE-GEF455-457"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
