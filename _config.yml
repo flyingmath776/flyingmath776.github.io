@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Courses and Course Updates
+title: Mathieu Drolet
 
 # Your name to show in the footer
 author: Mathieu Drolet
@@ -14,7 +14,11 @@ author: Mathieu Drolet
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Contact"
+  Courses:
+    - "GEF 243"
+    - "GEF 250"
+    - "EEE/GEF 455"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
